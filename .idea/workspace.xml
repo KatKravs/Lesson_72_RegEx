@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2f5ad3f-4df1-4f3c-899a-bf2a100c8a28" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/cohort34.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FibonacciHW_42/FibonacciHW_42.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_53/HW_53.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework _08/Homework _08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework3/Homework3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_1/Homework_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_17OOP/Homework_17OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_18/Homework_18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_32_Garage/Homework_32_Garage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_41_Photo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_41_Photo/Homework_41_Photo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_47_Supermarket/Homework_47_Supermarket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_5/Homework_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_praktika 1/Homework_praktika 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson _14Praktika/Lesson _14Praktika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson02_hello word/Lesson02_hello word.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson07_ChoiseAdv/Lesson07_ChoiceAdv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson07_ChoiseAdv/Lesson07_ChoiseAdv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson09WileLoop/Lesson09WileLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson13_Sort/Lesson13_Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson34_Comparator/Lesson34_Comparator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson35_ArraysSort/Lesson35_ArraysSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson4/Lesson4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_03 Method/Lesson_03 Method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_10LoopAdv/Lesson_10LoopAdv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_11Arrays/Lesson_11Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_12ArrayAdv/Lesson_12ArrayAdv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_15/Lesson_15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_16ArrayTools/Lesson_16ArrayTools.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_17Encapsulation/Lesson_17Encapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_18Polymorfizm/Lesson_18Polymorfizm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_20Inheritance/Lesson_20Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_21Computer/Lesson_21Computer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_22OOP/Lesson_22OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_23 Supermarket/Lesson_23 Supermarket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_24WrraperClasses/Lesson_24WrraperClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_25_String/Lesson_25_String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_26UserTest/Lesson_26UserTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_27StringBuilder/Lesson_27StringBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_28/Lesson_28.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_29Employee/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_29Employee/Lesson_29Employee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_29Homework/Lesson_29Homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_31CompanyAdv/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_31CompanyAdv/Lesson_31CompanyAdv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_32_Generic/Lesson_32_Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_36_Wardrobe/Lesson_36_Wardrobe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_37_Arrays/Lesson_37_Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_38_Enum/Lesson_38_Enum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_38_Exeption/Lesson_38_Exeption.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_40_Albom/Lesson_40_Albom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_41_AlbumDateSorted/Lesson_41_AlbumDateSorted.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_42_Iterator/Lesson_42_Iterator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_43Forum/Lesson_43Forum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_43Forum/src/ait/forum/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_44_ArrayList/Lesson_44_ArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_45_Praktika/Lesson_45_Praktika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_46_LinkedList/Lesson_46_LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_47_CompanyList/Lesson_47_CompanyList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_47_CompanyList/src/ait/employee/CompanyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_47_CompanyList/src/ait/employee/EmployeeAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_47_CompanyList/src/ait/employee/dao/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_47_CompanyList/src/ait/employee/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_47_CompanyList/src/ait/employee/model/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_47_CompanyList/src/ait/employee/model/SalesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_47_CompanyList/src/ait/employee/model/WageEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_47_CompanyList/src/ait/employee/test/CompanyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_47_List/Lesson_47_List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_48_Citizens/Lesson_48_Citizens.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_48_Collections/Lesson_48_Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_6Choise/Lesson_6Choise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New _test Git _Andrey/New _test Git _Andrey.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Praktika_19Pizza/Praktika_19Pizza.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Praktika_27Test _Password/Praktika_27Test _Password.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValidatorHW_72.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 5/lesson 5.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2ZqjwXNtcL7QOqNM6WFqeEsac3K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ait.validaator.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ValidatorTest.testCheckLessEquals255">
+    <configuration name="ValidatorTest.testCheckCreditCardNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ValidatorHW_72" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ait.validaator.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ait.validaator.test" />
+      <option name="MAIN_CLASS_NAME" value="ait.validaator.test.ValidatorTest" />
+      <option name="METHOD_NAME" value="testCheckCreditCardNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorTest.testCheckDateFormatEU" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ValidatorHW_72" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ait.validaator.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ait.validaator.test" />
+      <option name="MAIN_CLASS_NAME" value="ait.validaator.test.ValidatorTest" />
+      <option name="METHOD_NAME" value="testCheckDateFormatEU" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorTest.testCheckDateFormatUS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ValidatorHW_72" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ait.validaator.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ait.validaator.test" />
+      <option name="MAIN_CLASS_NAME" value="ait.validaator.test.ValidatorTest" />
+      <option name="METHOD_NAME" value="testCheckDateFormatUS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorTest.testCheckLessEquals255" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ValidatorHW_72" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ait.validaator.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ait.validaator.test" />
+      <option name="MAIN_CLASS_NAME" value="ait.validaator.test.ValidatorTest" />
+      <option name="METHOD_NAME" value="testCheckLessEquals255" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorTest.testCheckPhoneNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ValidatorHW_72" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ait.validaator.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ait.validaator.test" />
+      <option name="MAIN_CLASS_NAME" value="ait.validaator.test.ValidatorTest" />
+      <option name="METHOD_NAME" value="testCheckPhoneNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ValidatorTest.testCheckLessEquals255" />
+        <item itemvalue="JUnit.ValidatorTest.testCheckPhoneNumber" />
+        <item itemvalue="JUnit.ValidatorTest.testCheckDateFormatUS" />
+        <item itemvalue="JUnit.ValidatorTest.testCheckDateFormatEU" />
+        <item itemvalue="JUnit.ValidatorTest.testCheckCreditCardNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2f5ad3f-4df1-4f3c-899a-bf2a100c8a28" name="Changes" comment="" />
+      <created>1703156746423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703156746423</updated>
+    </task>
+    <servers />
+  </component>
+</project>
